@@ -150,7 +150,7 @@ header .mobile {
 
 .image-container img {
   display: block;
-  mad-width: 100%;
+  max-width: 100%;
 }
 
 .feature .content {
