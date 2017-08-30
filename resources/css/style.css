@@ -75,3 +75,106 @@ header .mobile {
   background-color: #9dc20b;
 }
 
+#sign-up-cta .content {
+  width: 25.625rem;
+  margin-top: 2rem;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.25rem;
+  line-height: 1.4;
+  color: white;
+}
+
+.center {
+  text-align: center;
+}
+
+#sign-up-cta .cursive {
+  font-family: "Damion", cursive;
+}
+
+#sign-up-cta h2 {
+  font-size: 2.25rem;
+}
+
+#sign-up-cta .striking {
+  font-family: "Rubik", sans-serif;
+  padding-bottom: .75rem;
+}
+
+#sign-up-cta h1 {
+  font-size: 3.125rem;
+}
+
+#sign-up-cta span strong {
+  font-weight: bold;
+}
+
+#sign-up-cta .button {
+  margin-top: 1.625rem;
+  padding: 1.25rem 7.25rem;
+}
+
+.button {
+  border-radius: 4px;
+  background-color: #4a4a4a;
+  color: white;
+}
+
+#features-section {
+  display: flex;
+  justify-content: space-between;
+  padding: 4rem 5%;
+  background-color: #f3f3f3;
+}
+
+.feature {
+  flex: 1;
+  padding: 2rem;
+  margin: 0px 1.25rem;
+  background-color: white;
+}
+
+.center {
+  text-align: center;
+}
+
+.feature .image-container {
+  width: 90%;
+  height: 65%;
+  margin: 0 auto;
+}
+
+.image-container {
+  overflow: hidden;
+}
+
+.image-container img {
+  display: block;
+  mad-width: 100%;
+}
+
+.feature .content {
+  padding: 2.5rem 0;
+}
+
+.feature h2 {
+  padding-bottom: .5rem;
+  font-size: 2.25rem;
+  font-weight: bold;
+  color: #4a4a4a;
+}
+
+.feature h3 {
+  font-size: 1rem;
+  line-height: 1.2;
+  font-weight: 300;
+  color: #4a4a4a;
+}
+
+
+
+
+
+
+
+
