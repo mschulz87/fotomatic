@@ -360,7 +360,7 @@ footer .copyright {
 }
 
 
-@media only screen and (mad-width: 890px) {
+@media only screen and (max-width: 890px) {
   .feature h2 {
     font-size: 1.125rem;
     line-height: 1.3;
@@ -372,6 +372,19 @@ footer .copyright {
     line-height: 1.4;
   }
 }
+  
+
+@media only screen and (max-width: 450) {
+  #sign-up-section {
+    height: 20rem;
+  }
+  
+  #sign-up-cta h1 {
+    font-size: 2.25rem;
+  }
+}
+  
+  
   
   
   
